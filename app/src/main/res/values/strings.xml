@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">FinalProject</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Final</string>
+    <string name="add_to_calendar">Add to Calendar</string>>
+    <string name="event_message">Type your event message here</string>>
+    <string name="sign_in">Sign In With google</string>>
+    <string name="select_date">Date</string>>
+    <string name="select_time">Time</string>>
+    <string name="default_date">1900/1/1 00:00:00</string>>
 </resources>
